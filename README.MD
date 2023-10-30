@@ -8,7 +8,7 @@
 https://app.diagrams.net/
 https://grafana.com/
 https://prometheus.io/
-![Дз](autorization.png)
+![Дз](usecase.png)
 ![Дз](ERD.png)
 ![Дз](UI.png)
-![Дз](usecase.png)
+![Дз](autorization.png)
